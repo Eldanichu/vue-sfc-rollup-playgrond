@@ -74,3 +74,17 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+
+node_modules
+playground/node_modules
+playground/dist
+dist
+package-lock.json
+lib
+.idea
+.vscode
+.npmrc
+coverage
+.envrc
+.DS_Store
